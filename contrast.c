@@ -1,5 +1,4 @@
 // According to https://www.w3.org/WAI/GL/wiki/Relative_luminance
-// ** #include <math.h> for powf() **
 
 #include <stdio.h>
 #include <stdlib.h>
